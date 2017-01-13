@@ -6,5 +6,9 @@
     "type": "git",
     "url": "https://github.com/DevStuffs/bootstrap-template.git"
   },
-  "author": "Sean Murphy"
+  "author": "Sean Murphy",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
