@@ -1,0 +1,5 @@
+    sample:
+    .DS_Store
+    .tmp
+    .sass-cach
+    /builds/**/images/*
